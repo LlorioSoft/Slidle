@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Slidle</string>
+    <string name="action_settings">Settings</string>
+    <string name="help">Ayuda</string>
+    <string name="copy">© 2016-2017 Diego González Díaz \n Todos los derechos reservados.</string>
+    <string name="slidle">Slidle</string>
+    <string name="init">Iniciar</string>
+    <string name="title_activity_settings">Ajustes Previos</string>
+    <string name="tiles3">Novato (8 Piezas)</string>
+    <string name="tiles6">Normal (35 Piezas)</string>
+    <string name="tiles9">Veterano (80 Piezas)</string>
+    <string name="numTiles">Selecciona el Numero De Fichas</string>
+    <string name="selImage">Seleccionar Imagen</string>
+    <string name="title_activity_game">Juego</string>
+    <string name="movimientos">Movimientos:</string>
+    <string name="restart">Reiniciar Partida</string>
+    <string name="movesT">Número de Movimientos:</string>
+</resources>
